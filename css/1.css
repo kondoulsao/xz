@@ -1,0 +1,40 @@
+@charset "UTF-8";
+#contend {
+  color: #ff0000; }
+  #contend p {
+    background: #000; }
+    #contend p a {
+      text-decoration: none; }
+    #contend p b {
+      text-style: normal; }
+  #contend div {
+    background: #00f; }
+    #contend div ul {
+      list-style: none; }
+      #contend div ul li {
+        border: 0; }
+        #contend div ul li a {
+          text-decoration: none; }
+        #contend div ul li img {
+          outline: 0; }
+
+p::before {
+  contend: "全国通缉小黄鸭"; }
+
+div {
+  color: #f10215;
+  width: 100px;
+  border: 2px solid #f10215;
+  border: #f10215; }
+
+.my-color {
+  color: #000; }
+
+.my-color {
+  color: #000; }
+
+.my-color {
+  color: #000; }
+
+.my-color {
+  color: #000; }
